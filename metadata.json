@@ -1,0 +1,5 @@
+{
+  "name": "Content Provenance MVP",
+  "description": "A simulation of an anti-fraud framework verifying content authenticity via cryptographic serial numbers and device binding.",
+  "requestFramePermissions": []
+}
